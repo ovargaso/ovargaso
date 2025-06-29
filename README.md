@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ovargaso
-- 👀 I’m interested in Data Analytics and leavig the world better than we found it
+- 👀 I’m interested in Data Analytics and leaving the world better than we found it
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: carrier pigeon
 - 😄 Pronouns: him
